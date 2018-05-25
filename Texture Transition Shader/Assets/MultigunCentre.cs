@@ -6,11 +6,10 @@ public class MultigunCentre : MonoBehaviour {
 
     public float rotateSpeed;
 
-    public GameObject unlitShip;
-    public GameObject shadedShip;
+    public GameObject[] ships;
 
 	void Start () {
-		
+        EnableShip(2);
 	}
 	
 	// Update is called once per frame
@@ -23,15 +22,13 @@ public class MultigunCentre : MonoBehaviour {
         transform.Rotate(0, rotateSpeed * Time.deltaTime, 0);
     }
 
-    public void EnableUnlit()
+    public void EnableShip(int shipID)
     {
-        shadedShip.SetActive(false);
-        unlitShip.SetActive(true);
-    }
+        foreach (var ship in ships)
+        {
+            ship.GetComponent<MeshRenderer>().enabled = false;
+        }
 
-    public void EnableShaded()
-    {
-        shadedShip.SetActive(true);
-        unlitShip.SetActive(false);
+        ships[shipID].GetComponent<MeshRenderer>().enabled = true;
     }
 }

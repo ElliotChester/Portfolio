@@ -83,7 +83,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - DissolveAmount: 0.53000045
+    - DissolveAmount: 1
     - Glossiness1: 0
     - Glossiness2: 0
     - Metallic1: 0
