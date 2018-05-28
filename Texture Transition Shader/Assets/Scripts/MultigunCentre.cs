@@ -10,10 +10,9 @@ public class MultigunCentre : MonoBehaviour {
 
 	void Start ()
     {
-        EnableShip(3);
+        EnableShip(4);
 	}
-	
-	// Update is called once per frame
+
 	void Update ()
     {
         Rotate();
