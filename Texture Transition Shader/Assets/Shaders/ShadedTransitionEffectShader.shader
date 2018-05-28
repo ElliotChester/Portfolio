@@ -1,4 +1,6 @@
-﻿Shader "Transitions/ShadedTransitionWithEffectShader" 
+﻿// Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
+
+Shader "Transitions/ShadedTransitionWithEffectShader" 
 {
 	Properties 
 	{
@@ -28,9 +30,10 @@
 	SubShader 
 	{
 
-		Tags { "RenderType"="Opaque" }
+		Tags {"RenderType"="Opaque" }
 		LOD 200
-
+		Blend SrcAlpha OneMinusSrcAlpha
+        ZWrite on
 
 		CGPROGRAM
 
@@ -54,10 +57,6 @@
 			float2 uvTexture1;
 			//float2 uv : TEXCOORD0;
 		};
-		
-
-		//UNITY_INSTANCING_BUFFER_START(Props)
-		//UNITY_INSTANCING_BUFFER_END(Props)
 
 		void surf (Input IN, inout SurfaceOutputStandard o) 
 		{
@@ -75,9 +74,6 @@
 		}
 
 		ENDCG
-		
-		Blend SrcAlpha OneMinusSrcAlpha
-        
 
 		CGPROGRAM
 
@@ -99,21 +95,16 @@
 		struct Input 
 		{
 			float2 uvTexture2;
-			//float2 uv : TEXCOORD0;
+			float2 worldPos : TEXCOORD0;
 		};
-		
-
-		//UNITY_INSTANCING_BUFFER_START(Props)
-		//UNITY_INSTANCING_BUFFER_END(Props)
 
 		void surf (Input IN, inout SurfaceOutputStandard o) 
 		{
-
 			float4 textureColor = tex2D(Texture2, IN.uvTexture2);
 			float4 dissolveColor = tex2D(TransitionTexture, IN.uvTexture2);
 
 			clip(-dissolveColor.rgb + (DissolveAmount + (0.01f - (TransitionEffectAmt * 0.03f))));
-
+			
 			fixed4 c2 = tex2D (Texture2, IN.uvTexture2) * Color2;
 			o.Albedo = c2.rgb;
 			o.Metallic = Metallic2;
@@ -125,7 +116,7 @@
 
 		CGPROGRAM
 
-		#pragma surface surf Standard fullforwardshadows lightModel
+		#pragma surface surf Standard fullforwardshadows
 
 		#pragma target 3.0
 
@@ -141,10 +132,6 @@
 			float2 uvTexture2;
 			//float2 uv : TEXCOORD0;
 		};
-		
-
-		//UNITY_INSTANCING_BUFFER_START(Props)
-		//UNITY_INSTANCING_BUFFER_END(Props)
 
 		void surf (Input IN, inout SurfaceOutputStandard o) 
 		{
@@ -164,5 +151,5 @@
 
 		ENDCG	
 	}
-	//FallBack "Diffuse"
+	FallBack "Diffuse"
 }

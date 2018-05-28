@@ -14,13 +14,19 @@ public class ShipShaderControl : MonoBehaviour {
 
     public Sprite[] sprites;
 
+    bool usingClouds = false;
+    public Sprite[] cloudSprites;
+
     // Use this for initialization
     void Start () {
         SwitchTransition(0);
 	}
 	
 	// Update is called once per frame
-	void Update () {
+	void Update ()
+    {
+        if (this.gameObject.activeSelf == false) { return; }
+
         ShipDisolveAmount = Mathf.MoveTowards(ShipDisolveAmount, ShipDisolveTarget, TransitionSpeed);
 
         if (Input.GetKeyDown(KeyCode.Space))
@@ -34,19 +40,37 @@ public class ShipShaderControl : MonoBehaviour {
 
     public void Transition()
     {
-        if (ShipDisolveTarget == 1)
+        if(this.gameObject.activeSelf == false){ return; }
+
+        if (ShipDisolveAmount <= 0 || ShipDisolveAmount >= 1)
         {
-            ShipDisolveTarget = 0;
-        }
-        else
-            if (ShipDisolveTarget == 0)
-        {
-            ShipDisolveTarget = 1;
+            if (usingClouds)
+            {
+                int id = Random.Range(0, cloudSprites.Length - 1);
+                this.GetComponent<Renderer>().material.SetTexture("TransitionTexture", cloudSprites[id].texture);
+                previewRenderer.GetComponent<Image>().material.SetTexture("TransitionTexture", cloudSprites[id].texture);
+                previewTransitionImage.sprite = cloudSprites[id];
+            }
+
+            if (ShipDisolveTarget == 1)
+            {
+                ShipDisolveTarget = 0;
+            }
+            else
+                if (ShipDisolveTarget == 0)
+            {
+                ShipDisolveTarget = 1;
+            }
         }
     }
 
     public void SwitchTransition(int id)
     {
+        if(id == 0)
+        {
+            usingClouds = true;
+        }
+
         this.GetComponent<Renderer>().material.SetTexture("TransitionTexture", sprites[id].texture);
         previewRenderer.GetComponent<Image>().material.SetTexture("TransitionTexture", sprites[id].texture);
         previewTransitionImage.sprite = sprites[id];
