@@ -8,8 +8,9 @@ public class MultigunCentre : MonoBehaviour {
 
     public GameObject[] ships;
 
-	void Start () {
-        EnableShip(2);
+	void Start ()
+    {
+        EnableShip(3);
 	}
 	
 	// Update is called once per frame
@@ -20,7 +21,7 @@ public class MultigunCentre : MonoBehaviour {
 
     void Rotate()
     {
-        transform.Rotate(0, rotateSpeed * Time.deltaTime, 0);
+        transform.Rotate(0, 0, rotateSpeed * Time.deltaTime);
     }
 
     public void EnableShip(int shipID)

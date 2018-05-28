@@ -84,10 +84,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - DissolveAmount: 1
-    - Glossiness1: 0
-    - Glossiness2: 0
-    - Metallic1: 0
-    - Metallic2: 0
+    - Glossiness1: 0.7
+    - Glossiness2: 0.7
+    - Metallic1: 0.4
+    - Metallic2: 0.4
     - OutlineWidth: 0
     - _BumpScale: 1
     - _Cutoff: 0.5

@@ -99,40 +99,40 @@
 				//colours
 				//uv's
 				struct appdata
-			{
-				float4 vertex : POSITION;
-				float2 uv : TEXCOORD0;
-				float3 normal : NORMAL;
-			};
+				{
+					float4 vertex : POSITION;
+					float2 uv : TEXCOORD0;
+					float3 normal : NORMAL;
+				};
 
-			struct v2f {
-				float4 position : SV_POSITION;
-				float2 uv : TEXCOORD0;
-			};
+				struct v2f {
+					float4 position : SV_POSITION;
+					float2 uv : TEXCOORD0;
+				};
 
-			float4 Color1;
-			sampler2D Texture1;
+				float4 Color1;
+				sampler2D Texture1;
 
-			float4 Color2;
-			sampler2D Texture2;
+				float4 Color2;
+				sampler2D Texture2;
 
-			sampler2D TransitionTexture;
-			float DissolveAmount;
+				sampler2D TransitionTexture;
+				float DissolveAmount;
 
-			//Vertex
-			//Build the object
-			v2f vert(appdata IN) {
-				v2f OUT;
+				//Vertex
+				//Build the object
+				v2f vert(appdata IN) {
+					v2f OUT;
 
-				OUT.position = UnityObjectToClipPos(IN.vertex);
-				OUT.uv = IN.uv;
+					OUT.position = UnityObjectToClipPos(IN.vertex);
+					OUT.uv = IN.uv;
 
-				return OUT;
-			}
+					return OUT;
+				}
 
 
-			//Fragment
-			//Colour it in
+				//Fragment
+				//Colour it in
 				fixed4 frag(v2f IN) : SV_Target
 				{
 					float4 textureColor = tex2D(Texture2, IN.uv);

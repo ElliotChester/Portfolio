@@ -397,6 +397,7 @@
     <None Include="Assets\PostProcessing\Utilities\CustomMotionTexture\Shaders\CustomMotionVectorTexture.shader" />
     <None Include="Assets\Shaders\ShadedTransitionEffectShader.shader" />
     <None Include="Assets\Shaders\ShadedTransitionEffectTransparentShader.shader" />
+    <None Include="Assets\Shaders\ShadedTransitionEffectWorldSpaceShader.shader" />
     <None Include="Assets\Shaders\ShadedTransitionShader.shader" />
     <None Include="Assets\Shaders\UnlitTransitionShader.shader" />
     <None Include="C:\Users\max chester\AppData\Local\Unity\cache\packages\packages.unity.com\com.unity.package-manager-ui@1.8.8\Editor\Resources\Styles\Main_Dark.uss" />

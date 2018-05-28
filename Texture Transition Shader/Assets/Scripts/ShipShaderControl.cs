@@ -27,7 +27,7 @@ public class ShipShaderControl : MonoBehaviour {
     {
         if (this.gameObject.activeSelf == false) { return; }
 
-        ShipDisolveAmount = Mathf.MoveTowards(ShipDisolveAmount, ShipDisolveTarget, TransitionSpeed);
+        ShipDisolveAmount = Mathf.MoveTowards(ShipDisolveAmount, ShipDisolveTarget, TransitionSpeed * Time.deltaTime);
 
         if (Input.GetKeyDown(KeyCode.Space))
         {
@@ -69,6 +69,10 @@ public class ShipShaderControl : MonoBehaviour {
         if(id == 0)
         {
             usingClouds = true;
+        }
+        else
+        {
+            usingClouds = false;
         }
 
         this.GetComponent<Renderer>().material.SetTexture("TransitionTexture", sprites[id].texture);
