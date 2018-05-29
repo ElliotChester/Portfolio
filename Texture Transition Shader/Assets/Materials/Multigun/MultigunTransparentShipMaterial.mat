@@ -6,11 +6,11 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: ShipUVMaterial
-  m_Shader: {fileID: 4800000, guid: 040a73054f297c94ab89b0eb1a5640e2, type: 3}
+  m_Name: MultigunTransparentShipMaterial
+  m_Shader: {fileID: 4800000, guid: 27f581c9ac29faf4b8cdd4107598e16d, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
-  m_EnableInstancingVariants: 0
+  m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
   stringTagMap: {}
@@ -23,15 +23,15 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Texture1:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 6f4f560430f3d0049b30ab8df81967c3, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Texture2:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 6f4f560430f3d0049b30ab8df81967c3, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - TransitionTexture:
-        m_Texture: {fileID: 2800000, guid: a15243e25cea7f64abe51d39451b805d, type: 3}
+        m_Texture: {fileID: 2800000, guid: fa986efe506a80a499cf466e74584b0a, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
@@ -83,12 +83,15 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - DissolveAmount: 1
-    - Glossiness1: 0
-    - Glossiness2: 0
-    - Metallic1: 0
-    - Metallic2: 0
+    - DissolveAmount: 0
+    - Glossiness1: 0.5
+    - Glossiness2: 0.5
+    - Metallic1: 0.4
+    - Metallic2: 0.4
     - OutlineWidth: 0
+    - TransitionEffectAmt: 1
+    - TransitionEmission: 1
+    - TransitionScale: 20
     - _BumpScale: 1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
@@ -109,9 +112,12 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - Color1: {r: 1, g: 1, b: 1, a: 1}
-    - Color2: {r: 0, g: 0, b: 0, a: 1}
+    - Color2: {r: 1, g: 1, b: 1, a: 0}
     - OutlineColor: {r: 0, g: 0, b: 0, a: 1}
     - TextureColor: {r: 1, g: 1, b: 1, a: 1}
+    - TransitionColor: {r: 0, g: 0.94070315, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _HaloColor: {r: 1, g: 0, b: 0, a: 1}
+    - _Position: {r: 0.0000009863616, g: 0, b: 0, a: 0}
     - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
