@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  GridDrawer.cpp
+e:\users\elliot\onedrive\documents\university\ai\griddrawer\griddrawer\griddrawer\griddrawer.cpp(42): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\users\elliot\onedrive\documents\university\ai\griddrawer\griddrawer\griddrawer\griddrawer.cpp(43): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\users\elliot\onedrive\documents\university\ai\griddrawer\griddrawer\griddrawer\griddrawer.cpp(54): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+e:\users\elliot\onedrive\documents\university\ai\griddrawer\griddrawer\griddrawer\griddrawer.cpp(57): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\users\elliot\onedrive\documents\university\ai\griddrawer\griddrawer\griddrawer\griddrawer.cpp(128): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\users\elliot\onedrive\documents\university\ai\griddrawer\griddrawer\griddrawer\griddrawer.cpp(129): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\users\elliot\onedrive\documents\university\ai\griddrawer\griddrawer\griddrawer\griddrawer.cpp(158): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\users\elliot\onedrive\documents\university\ai\griddrawer\griddrawer\griddrawer\griddrawer.cpp(162): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\users\elliot\onedrive\documents\university\ai\griddrawer\griddrawer\griddrawer\griddrawer.cpp(259): warning C4244: 'argument': conversion from 'Sint32' to 'float', possible loss of data
+  GridCreator.cpp
+  Generating Code...
+     Creating library E:\Users\Elliot\Onedrive\Documents\University\AI\GridDrawer\GridDrawer\x64\Debug\GridDrawer.lib and object E:\Users\Elliot\Onedrive\Documents\University\AI\GridDrawer\GridDrawer\x64\Debug\GridDrawer.exp
+  GridDrawer.vcxproj -> E:\Users\Elliot\Onedrive\Documents\University\AI\GridDrawer\GridDrawer\x64\Debug\GridDrawer.exe

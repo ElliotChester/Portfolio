@@ -228,42 +228,38 @@ void Grid::BreadthCheckNode(Node* node)
 	}
 #pragma endregion
 
-	for (size_t i = 0; i < neighbours.size(); i++)	//loops through all of the neighbours
+	for (Node* Next : neighbours)						//Loops through and checks all of the neighbours
 	{
-		Node* Next = neighbours[i];
 		node->checked = true;
-
-		if (!Next->checked || !Next->obstruction)			//checks to see if the next node has already been checked, or is an obstruction, if it is then it returns and ignores the node
+		if (!Next->checked && !Next->obstruction)			//Checks if the node being checked has already been checked or an obstruction
 		{
-			return;
-		}
-
-		if (Next->target == true)							// if the next node is the target it set the target node to that node and change the targetfound bool to true so that the path can be made
-		{													
-			//std::cout << "found Target" << std::endl;
-			node->checked = true;
-			targetNode = Next;
-			targetNode->Parent = node;
-			targetFound = true;
-		}
-		else
-		{													// if the node is not checked, not an obstruction, and not the target, it will set the parent to the current node, and add the next node to next check
-			Next->Parent = node;
-			bool alreadyInNextCheck = false;
-			for (size_t j = 0; j < nextCheck.size(); j++)
+			if (Next->target == true)						//if the node being checked is the target, the target will be set as true so that the search will no longer run
 			{
-				Node* checkNode = nextCheck[j];
-				if (checkNode == Next) {
-					alreadyInNextCheck = true;
+				std::cout << "found Target" << std::endl;
+				node->checked = true;
+				targetNode = Next;
+				targetNode->Parent = node;					//the parent is set so that the path can be found
+				targetFound = true;
+			}
+			else											//if the node is not the target, it will 
+			{
+				Next->Parent = node;
+				bool alreadyInNextCheck = false;			//this had to be added otherwise the node would be put in next check which caused a problem of the same node being added to the vector thousands of times resulting in millions of nodes being in the vector, using lots of memory and bringing the program to a halt
+				for (Node* checkNode : nextCheck)
+				{
+					if (checkNode == Next)
+					{
+						alreadyInNextCheck = true;
+					}
+				}
+
+				if (alreadyInNextCheck == false)
+				{
+					nextCheck.push_back(Next);				//if the node isnt already in the vector, it will be added to be checked
 				}
 			}
-
-			if (alreadyInNextCheck == false) 
-			{
-				nextCheck.push_back(Next);
-			}
 		}
-		
+
 	}
 }
 

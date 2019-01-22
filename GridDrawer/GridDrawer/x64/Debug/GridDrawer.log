@@ -1,0 +1,16 @@
+﻿  GridDrawer.cpp
+e:\github\portfolio\griddrawer\griddrawer\griddrawer.cpp(42): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\github\portfolio\griddrawer\griddrawer\griddrawer.cpp(43): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\github\portfolio\griddrawer\griddrawer\griddrawer.cpp(54): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+e:\github\portfolio\griddrawer\griddrawer\griddrawer.cpp(57): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\github\portfolio\griddrawer\griddrawer\griddrawer.cpp(141): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+e:\github\portfolio\griddrawer\griddrawer\griddrawer.cpp(145): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  GridDrawer.vcxproj -> E:\Github\Portfolio\GridDrawer\x64\Debug\GridDrawer.exe

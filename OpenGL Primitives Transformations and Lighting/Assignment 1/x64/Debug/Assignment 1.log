@@ -1,0 +1,7 @@
+﻿  Assignment 1.cpp
+e:\github\portfolio\opengl primitives transformations and lighting\assignment 1\assignment 1.cpp(61): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\github\portfolio\opengl primitives transformations and lighting\assignment 1\assignment 1.cpp(62): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\github\portfolio\opengl primitives transformations and lighting\assignment 1\assignment 1.cpp(199): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\github\portfolio\opengl primitives transformations and lighting\assignment 1\assignment 1.cpp(258): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\github\portfolio\opengl primitives transformations and lighting\assignment 1\assignment 1.cpp(259): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  Assignment 1.vcxproj -> E:\Github\Portfolio\OpenGL Primitives Transformations and Lighting\x64\Debug\Assignment 1.exe

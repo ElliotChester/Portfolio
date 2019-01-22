@@ -1,0 +1,15 @@
+﻿  main.cpp
+c:\users\tangy\onedrive\documents\github\ai-portfolio-elliotchester\finitestatemachine\finitestatemachine\main.cpp(4): fatal error C1853: 'x64\Debug\FiniteStateMachine.pch' precompiled header file is from a previous version of the compiler, or the precompiled header is C++ and you are using it from C (or vice versa)
+  StateMachine.cpp
+c:\users\tangy\onedrive\documents\github\ai-portfolio-elliotchester\finitestatemachine\finitestatemachine\statemachine.cpp(1): fatal error C1853: 'x64\Debug\FiniteStateMachine.pch' precompiled header file is from a previous version of the compiler, or the precompiled header is C++ and you are using it from C (or vice versa)
+  ReloadState.cpp
+c:\users\tangy\onedrive\documents\github\ai-portfolio-elliotchester\finitestatemachine\finitestatemachine\reloadstate.cpp(1): fatal error C1853: 'x64\Debug\FiniteStateMachine.pch' precompiled header file is from a previous version of the compiler, or the precompiled header is C++ and you are using it from C (or vice versa)
+  PrintState.cpp
+c:\users\tangy\onedrive\documents\github\ai-portfolio-elliotchester\finitestatemachine\finitestatemachine\printstate.cpp(1): fatal error C1853: 'x64\Debug\FiniteStateMachine.pch' precompiled header file is from a previous version of the compiler, or the precompiled header is C++ and you are using it from C (or vice versa)
+  PreheatState.cpp
+c:\users\tangy\onedrive\documents\github\ai-portfolio-elliotchester\finitestatemachine\finitestatemachine\preheatstate.cpp(1): fatal error C1853: 'x64\Debug\FiniteStateMachine.pch' precompiled header file is from a previous version of the compiler, or the precompiled header is C++ and you are using it from C (or vice versa)
+  IdleState.cpp
+c:\users\tangy\onedrive\documents\github\ai-portfolio-elliotchester\finitestatemachine\finitestatemachine\idlestate.cpp(1): fatal error C1853: 'x64\Debug\FiniteStateMachine.pch' precompiled header file is from a previous version of the compiler, or the precompiled header is C++ and you are using it from C (or vice versa)
+  CalibrationState.cpp
+c:\users\tangy\onedrive\documents\github\ai-portfolio-elliotchester\finitestatemachine\finitestatemachine\calibrationstate.cpp(1): fatal error C1853: 'x64\Debug\FiniteStateMachine.pch' precompiled header file is from a previous version of the compiler, or the precompiled header is C++ and you are using it from C (or vice versa)
+  Generating Code...

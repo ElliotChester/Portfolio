@@ -1,0 +1,13 @@
+﻿  Pathfinding.cpp
+c:\users\tangy\onedrive\documents\university\ai\gridpathfinding\pathfinding\pathfinding\pathfinding.cpp(43): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\tangy\onedrive\documents\university\ai\gridpathfinding\pathfinding\pathfinding\pathfinding.cpp(44): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\tangy\onedrive\documents\university\ai\gridpathfinding\pathfinding\pathfinding\pathfinding.cpp(55): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+c:\users\tangy\onedrive\documents\university\ai\gridpathfinding\pathfinding\pathfinding\pathfinding.cpp(59): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\tangy\onedrive\documents\university\ai\gridpathfinding\pathfinding\pathfinding\pathfinding.cpp(63): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\tangy\onedrive\documents\university\ai\gridpathfinding\pathfinding\pathfinding\pathfinding.cpp(67): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\tangy\onedrive\documents\university\ai\gridpathfinding\pathfinding\pathfinding\pathfinding.cpp(71): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\tangy\onedrive\documents\university\ai\gridpathfinding\pathfinding\pathfinding\pathfinding.cpp(76): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\tangy\onedrive\documents\university\ai\gridpathfinding\pathfinding\pathfinding\pathfinding.cpp(254): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tangy\onedrive\documents\university\ai\gridpathfinding\pathfinding\pathfinding\pathfinding.cpp(285): warning C4244: 'argument': conversion from 'Sint32' to 'float', possible loss of data
+  Pathfinding.vcxproj -> C:\Users\tangy\OneDrive\Documents\University\AI\GridPathfinding\Pathfinding\x64\Debug\Pathfinding.exe
+  Pathfinding.vcxproj -> C:\Users\tangy\OneDrive\Documents\University\AI\GridPathfinding\Pathfinding\x64\Debug\Pathfinding.pdb (Partial PDB)

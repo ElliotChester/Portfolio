@@ -1,0 +1,17 @@
+﻿     Creating library D:\Users\tangy\Onedrive\Documents\University\AI\GridPathfinding\Pathfinding\Debug\Pathfinding.lib and object D:\Users\tangy\Onedrive\Documents\University\AI\GridPathfinding\Pathfinding\Debug\Pathfinding.exp
+Pathfinding.obj : error LNK2019: unresolved external symbol _SDL_GetError referenced in function _SDL_main
+Pathfinding.obj : error LNK2019: unresolved external symbol _SDL_CreateWindow referenced in function _SDL_main
+Pathfinding.obj : error LNK2019: unresolved external symbol _SDL_DestroyWindow referenced in function _SDL_main
+Pathfinding.obj : error LNK2019: unresolved external symbol _SDL_GL_SetAttribute referenced in function _SDL_main
+Pathfinding.obj : error LNK2019: unresolved external symbol _SDL_GL_CreateContext referenced in function _SDL_main
+Pathfinding.obj : error LNK2019: unresolved external symbol _SDL_GL_SwapWindow referenced in function _SDL_main
+Pathfinding.obj : error LNK2019: unresolved external symbol _SDL_StartTextInput referenced in function _SDL_main
+Pathfinding.obj : error LNK2019: unresolved external symbol _SDL_StopTextInput referenced in function _SDL_main
+Pathfinding.obj : error LNK2019: unresolved external symbol _SDL_PollEvent referenced in function _SDL_main
+Pathfinding.obj : error LNK2019: unresolved external symbol _SDL_Init referenced in function _SDL_main
+Pathfinding.obj : error LNK2019: unresolved external symbol _SDL_Quit referenced in function _SDL_main
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+.\glew-2.1.0\lib\Release\x64\glew32.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+.\SDL2-2.0.6\lib\x64\SDL2.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+.\SDL2-2.0.6\lib\x64\SDL2main.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+D:\Users\tangy\Onedrive\Documents\University\AI\GridPathfinding\Pathfinding\Debug\Pathfinding.exe : fatal error LNK1120: 12 unresolved externals

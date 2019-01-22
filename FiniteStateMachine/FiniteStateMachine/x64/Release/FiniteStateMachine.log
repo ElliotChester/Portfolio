@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+  CalibrationState.cpp
+d:\users\tangy\onedrive\documents\github\ai-portfolio-elliotchester\finitestatemachine\finitestatemachine\State.h(17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  IdleState.cpp
+d:\users\tangy\onedrive\documents\github\ai-portfolio-elliotchester\finitestatemachine\finitestatemachine\State.h(17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+d:\users\tangy\onedrive\documents\github\ai-portfolio-elliotchester\finitestatemachine\finitestatemachine\State.h(17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  PreheatState.cpp
+d:\users\tangy\onedrive\documents\github\ai-portfolio-elliotchester\finitestatemachine\finitestatemachine\State.h(17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+PreheatState.cpp(21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  PrintState.cpp
+d:\users\tangy\onedrive\documents\github\ai-portfolio-elliotchester\finitestatemachine\finitestatemachine\State.h(17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  StateMachine.cpp
+d:\users\tangy\onedrive\documents\github\ai-portfolio-elliotchester\finitestatemachine\finitestatemachine\State.h(17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  All 44 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  FiniteStateMachine.vcxproj -> D:\Users\tangy\Onedrive\Documents\GitHub\ai-portfolio-ElliotChester\FiniteStateMachine\x64\Release\FiniteStateMachine.exe

@@ -72,9 +72,16 @@ public:
 		if (checked) {
 			sprite.setColor(sf::Color(220,220,220));
 		}
-		else {
+		else
+		{
 			sprite.setColor(sf::Color::White);
 		}
+
+		if (path) 
+		{
+			sprite.setColor(sf::Color(200, 200, 200));
+		}
+		
 	}
 };
 

@@ -1,0 +1,18 @@
+﻿  Assignment1.cpp
+e:\github\portfolio\pathfinding-steeringbehaviours-finitestatemachine\assignment1\assignment1.cpp(152): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  BaseEntity.cpp
+e:\github\portfolio\pathfinding-steeringbehaviours-finitestatemachine\assignment1\baseentity.cpp(133): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  FlightState.cpp
+e:\github\portfolio\pathfinding-steeringbehaviours-finitestatemachine\assignment1\flightstate.cpp(131): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Grid.cpp
+e:\github\portfolio\pathfinding-steeringbehaviours-finitestatemachine\assignment1\grid.cpp(500): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Node.cpp
+e:\github\portfolio\pathfinding-steeringbehaviours-finitestatemachine\assignment1\node.cpp(13): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Plane.cpp
+e:\github\portfolio\pathfinding-steeringbehaviours-finitestatemachine\assignment1\plane.cpp(75): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  PlaneStateMachine.cpp
+e:\github\portfolio\pathfinding-steeringbehaviours-finitestatemachine\assignment1\planestatemachine.cpp(33): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  RefuelState.cpp
+e:\github\portfolio\pathfinding-steeringbehaviours-finitestatemachine\assignment1\refuelstate.cpp(43): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  UtilRandom.cpp
+e:\github\portfolio\pathfinding-steeringbehaviours-finitestatemachine\assignment1\utilrandom.cpp(24): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?

@@ -1,0 +1,7 @@
+﻿  QuadTree.cpp
+e:\github\portfolio\quadtree\quadtree\quadtree.cpp(41): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  QuadTree.vcxproj -> E:\Github\Portfolio\QuadTree\x64\Debug\QuadTree.exe

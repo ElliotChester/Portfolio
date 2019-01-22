@@ -1,18 +1,7 @@
-﻿  stdafx.cpp
-  textfile.cpp
-e:\users\elliot\onedrive\documents\university\graphics\assignment2\assignment 2\assignment 2\textfile.cpp(12): warning C4603: '_CRT_SECURE_NO_DEPRECATE': macro is not defined or definition is different after precompiled header use
-  e:\users\elliot\onedrive\documents\university\graphics\assignment2\assignment 2\assignment 2\textfile.cpp(12): note: Add macro to precompiled header instead of defining here
-  e:\users\elliot\onedrive\documents\university\graphics\assignment2\assignment 2\assignment 2\textfile.cpp(13): note: use of precompiled header
-e:\users\elliot\onedrive\documents\university\graphics\assignment2\assignment 2\assignment 2\textfile.cpp(38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-  Assignment 2.cpp
-e:\users\elliot\onedrive\documents\university\graphics\assignment2\assignment 2\assignment 2\assignment 2.cpp(294): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
-e:\users\elliot\onedrive\documents\university\graphics\assignment2\assignment 2\assignment 2\assignment 2.cpp(294): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-e:\users\elliot\onedrive\documents\university\graphics\assignment2\assignment 2\assignment 2\assignment 2.cpp(295): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
-e:\users\elliot\onedrive\documents\university\graphics\assignment2\assignment 2\assignment 2\assignment 2.cpp(295): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-e:\users\elliot\onedrive\documents\university\graphics\assignment2\assignment 2\assignment 2\assignment 2.cpp(359): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-e:\users\elliot\onedrive\documents\university\graphics\assignment2\assignment 2\assignment 2\assignment 2.cpp(646): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
-e:\users\elliot\onedrive\documents\university\graphics\assignment2\assignment 2\assignment 2\assignment 2.cpp(646): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-e:\users\elliot\onedrive\documents\university\graphics\assignment2\assignment 2\assignment 2\assignment 2.cpp(647): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
-e:\users\elliot\onedrive\documents\university\graphics\assignment2\assignment 2\assignment 2\assignment 2.cpp(647): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-  Generating Code...
-  Assignment 2.vcxproj -> E:\Users\Elliot\Onedrive\Documents\University\Graphics\Assignment2\Assignment 2\x64\Debug\Assignment 2.exe
+﻿  Assignment 2.cpp
+e:\github\portfolio\opengl obj loader and shaders\assignment 2\assignment 2.cpp(294): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\github\portfolio\opengl obj loader and shaders\assignment 2\assignment 2.cpp(295): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\github\portfolio\opengl obj loader and shaders\assignment 2\assignment 2.cpp(359): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\github\portfolio\opengl obj loader and shaders\assignment 2\assignment 2.cpp(646): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\github\portfolio\opengl obj loader and shaders\assignment 2\assignment 2.cpp(647): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  Assignment 2.vcxproj -> E:\Github\Portfolio\OpenGL OBJ Loader and Shaders\x64\Debug\Assignment 2.exe
