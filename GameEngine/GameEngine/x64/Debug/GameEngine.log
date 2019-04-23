@@ -1,0 +1,22 @@
+﻿  GameManager.cpp
+e:\onedrive\documents\work\university\gameenginedevelopment\assignment2\implementation-elliotchester\gameengine\gameengine\gameobject.h(31): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+e:\onedrive\documents\work\university\gameenginedevelopment\assignment2\implementation-elliotchester\gameengine\gameengine\gameobject.h(45): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Compiling...
+  main.cpp
+e:\onedrive\documents\work\university\gameenginedevelopment\assignment2\implementation-elliotchester\gameengine\gameengine\gameobject.h(31): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+e:\onedrive\documents\work\university\gameenginedevelopment\assignment2\implementation-elliotchester\gameengine\gameengine\gameobject.h(45): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+GameManager.obj : error LNK2001: unresolved external symbol "public: virtual class b2Shape * __cdecl b2PolygonShape::Clone(class b2BlockAllocator *)const " (?Clone@b2PolygonShape@@UEBAPEAVb2Shape@@PEAVb2BlockAllocator@@@Z)
+GameManager.obj : error LNK2001: unresolved external symbol "public: virtual int __cdecl b2PolygonShape::GetChildCount(void)const " (?GetChildCount@b2PolygonShape@@UEBAHXZ)
+GameManager.obj : error LNK2019: unresolved external symbol "public: void __cdecl b2PolygonShape::SetAsBox(float,float)" (?SetAsBox@b2PolygonShape@@QEAAXMM@Z) referenced in function "public: void __cdecl GameManager::CreateBox(class b2World &,int,int)" (?CreateBox@GameManager@@QEAAXAEAVb2World@@HH@Z)
+GameManager.obj : error LNK2001: unresolved external symbol "public: virtual bool __cdecl b2PolygonShape::TestPoint(struct b2Transform const &,struct b2Vec2 const &)const " (?TestPoint@b2PolygonShape@@UEBA_NAEBUb2Transform@@AEBUb2Vec2@@@Z)
+GameManager.obj : error LNK2001: unresolved external symbol "public: virtual bool __cdecl b2PolygonShape::RayCast(struct b2RayCastOutput *,struct b2RayCastInput const &,struct b2Transform const &,int)const " (?RayCast@b2PolygonShape@@UEBA_NPEAUb2RayCastOutput@@AEBUb2RayCastInput@@AEBUb2Transform@@H@Z)
+GameManager.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl b2PolygonShape::ComputeAABB(struct b2AABB *,struct b2Transform const &,int)const " (?ComputeAABB@b2PolygonShape@@UEBAXPEAUb2AABB@@AEBUb2Transform@@H@Z)
+GameManager.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl b2PolygonShape::ComputeMass(struct b2MassData *,float)const " (?ComputeMass@b2PolygonShape@@UEBAXPEAUb2MassData@@M@Z)
+GameManager.obj : error LNK2019: unresolved external symbol "public: class b2Fixture * __cdecl b2Body::CreateFixture(struct b2FixtureDef const *)" (?CreateFixture@b2Body@@QEAAPEAVb2Fixture@@PEBUb2FixtureDef@@@Z) referenced in function "public: void __cdecl GameManager::CreateBox(class b2World &,int,int)" (?CreateBox@GameManager@@QEAAXAEAVb2World@@HH@Z)
+GameManager.obj : error LNK2019: unresolved external symbol "public: __cdecl b2World::b2World(struct b2Vec2 const &)" (??0b2World@@QEAA@AEBUb2Vec2@@@Z) referenced in function "void __cdecl `dynamic initializer for 'World''(void)" (??__EWorld@@YAXXZ)
+GameManager.obj : error LNK2019: unresolved external symbol "public: __cdecl b2World::~b2World(void)" (??1b2World@@QEAA@XZ) referenced in function "void __cdecl `dynamic atexit destructor for 'World''(void)" (??__FWorld@@YAXXZ)
+GameManager.obj : error LNK2019: unresolved external symbol "public: class b2Body * __cdecl b2World::CreateBody(struct b2BodyDef const *)" (?CreateBody@b2World@@QEAAPEAVb2Body@@PEBUb2BodyDef@@@Z) referenced in function "public: void __cdecl GameManager::CreateBox(class b2World &,int,int)" (?CreateBox@GameManager@@QEAAXAEAVb2World@@HH@Z)
+GameManager.obj : error LNK2019: unresolved external symbol "public: void __cdecl b2World::Step(float,int,int)" (?Step@b2World@@QEAAXMHH@Z) referenced in function "public: void __cdecl GameManager::Update(void)" (?Update@GameManager@@QEAAXXZ)
+E:\Onedrive\Documents\Work\University\GameEngineDevelopment\Assignment2\implementation-ElliotChester\GameEngine\x64\Debug\GameEngine.exe : fatal error LNK1120: 12 unresolved externals

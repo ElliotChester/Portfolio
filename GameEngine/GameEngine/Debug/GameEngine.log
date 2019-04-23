@@ -1,0 +1,102 @@
+﻿  GameManager.cpp
+e:\github\portfolio\gameengine\gameengine\gameobject.h(45): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+e:\github\portfolio\gameengine\gameengine\gameobject.h(65): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\github\portfolio\gameengine\gameengine\gameobject.h(131): warning C4244: '=': conversion from 'double' to 'float32', possible loss of data
+e:\github\portfolio\gameengine\gameengine\gamemanager.cpp(57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\github\portfolio\gameengine\gameengine\gamemanager.cpp(57): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\github\portfolio\gameengine\gameengine\gamemanager.cpp(62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\github\portfolio\gameengine\gameengine\gamemanager.cpp(62): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  GameObject.cpp
+e:\github\portfolio\gameengine\gameengine\gameobject.h(45): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+e:\github\portfolio\gameengine\gameengine\gameobject.h(65): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\github\portfolio\gameengine\gameengine\gameobject.h(131): warning C4244: '=': conversion from 'double' to 'float32', possible loss of data
+  GroundObject.cpp
+e:\github\portfolio\gameengine\gameengine\gameobject.h(45): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+e:\github\portfolio\gameengine\gameengine\gameobject.h(65): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\github\portfolio\gameengine\gameengine\gameobject.h(131): warning C4244: '=': conversion from 'double' to 'float32', possible loss of data
+e:\github\portfolio\gameengine\gameengine\groundobject.cpp(17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\github\portfolio\gameengine\gameengine\groundobject.cpp(18): warning C4244: 'argument': conversion from 'int' to 'float32', possible loss of data
+e:\github\portfolio\gameengine\gameengine\groundobject.cpp(26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\github\portfolio\gameengine\gameengine\groundobject.cpp(27): warning C4244: 'argument': conversion from 'int' to 'float32', possible loss of data
+e:\github\portfolio\gameengine\gameengine\groundobject.cpp(35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\github\portfolio\gameengine\gameengine\groundobject.cpp(36): warning C4244: 'argument': conversion from 'int' to 'float32', possible loss of data
+  InputManager.cpp
+  main.cpp
+e:\github\portfolio\gameengine\gameengine\gameobject.h(45): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+e:\github\portfolio\gameengine\gameengine\gameobject.h(65): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\github\portfolio\gameengine\gameengine\gameobject.h(131): warning C4244: '=': conversion from 'double' to 'float32', possible loss of data
+  PlayerCharacter.cpp
+e:\github\portfolio\gameengine\gameengine\gameobject.h(45): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+e:\github\portfolio\gameengine\gameengine\gameobject.h(65): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\github\portfolio\gameengine\gameengine\gameobject.h(131): warning C4244: '=': conversion from 'double' to 'float32', possible loss of data
+e:\github\portfolio\gameengine\gameengine\playercharacter.cpp(17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\github\portfolio\gameengine\gameengine\playercharacter.cpp(18): warning C4244: 'argument': conversion from 'int' to 'float32', possible loss of data
+e:\github\portfolio\gameengine\gameengine\playercharacter.cpp(27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\github\portfolio\gameengine\gameengine\playercharacter.cpp(28): warning C4244: 'argument': conversion from 'int' to 'float32', possible loss of data
+e:\github\portfolio\gameengine\gameengine\playercharacter.cpp(37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\github\portfolio\gameengine\gameengine\playercharacter.cpp(38): warning C4244: 'argument': conversion from 'int' to 'float32', possible loss of data
+  SceneManager.cpp
+e:\github\portfolio\gameengine\gameengine\scenemanager.cpp(65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\github\portfolio\gameengine\gameengine\scenemanager.cpp(72): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  TimeManager.cpp
+  WindowManager.cpp
+  Generating Code...
+e:\github\portfolio\gameengine\gameengine\inputmanager.cpp(408): warning C4715: 'InputManager::getButtonDown': not all control paths return a value
+e:\github\portfolio\gameengine\gameengine\inputmanager.cpp(452): warning C4715: 'InputManager::getButtonUp': not all control paths return a value
+e:\github\portfolio\gameengine\gameengine\inputmanager.cpp(364): warning C4715: 'InputManager::getButtonDown': not all control paths return a value
+e:\github\portfolio\gameengine\gameengine\inputmanager.cpp(386): warning C4715: 'InputManager::getButtonDown': not all control paths return a value
+e:\github\portfolio\gameengine\gameengine\inputmanager.cpp(474): warning C4715: 'InputManager::getButtonUp': not all control paths return a value
+e:\github\portfolio\gameengine\gameengine\inputmanager.cpp(496): warning C4715: 'InputManager::getButtonUp': not all control paths return a value
+  GameEngine.vcxproj -> E:\Github\Portfolio\GameEngine\Debug\GameEngine.exe

@@ -1,0 +1,142 @@
+{
+"Object0" : {
+"Type" : "Player",
+"Name" : "PlayerCharacter",
+"Position" : [600, 200],
+"Rotation" : 0
+},
+
+"Object1" : {
+"Type" : "Ground",
+"Name" : "GroundObject0",
+"Position" : [200, 600],
+"Rotation" : 0
+},
+
+"Object2" : {
+"Type" : "Ground",
+"Name" : "GroundObject1",
+"Position" : [264, 600],
+"Rotation" : 0
+},
+
+"Object3" : {
+"Type" : "Ground",
+"Name" : "GroundObject2",
+"Position" : [328, 600],
+"Rotation" : 0
+},
+
+"Object4" : {
+"Type" : "Ground",
+"Name" : "GroundObject3",
+"Position" : [392, 600],
+"Rotation" : 0
+},
+
+"Object5" : {
+"Type" : "Ground",
+"Name" : "GroundObject4",
+"Position" : [456, 600],
+"Rotation" : 0
+},
+
+"Object6" : {
+"Type" : "Ground",
+"Name" : "GroundObject5",
+"Position" : [520, 600],
+"Rotation" : 0
+},
+
+"Object7" : {
+"Type" : "Ground",
+"Name" : "GroundObject6",
+"Position" : [584, 600],
+"Rotation" : 0
+},
+
+"Object8" : {
+"Type" : "Ground",
+"Name" : "GroundObject7",
+"Position" : [648, 600],
+"Rotation" : 0
+},
+
+"Object9" : {
+"Type" : "Ground",
+"Name" : "GroundObject8",
+"Position" : [712, 600],
+"Rotation" : 0
+},
+
+"Object10" : {
+"Type" : "Ground",
+"Name" : "GroundObject9",
+"Position" : [776, 600],
+"Rotation" : 0
+},
+
+"Object11" : {
+"Type" : "Ground",
+"Name" : "GroundObject10",
+"Position" : [840, 600],
+"Rotation" : 0
+},
+
+"Object12" : {
+"Type" : "Ground",
+"Name" : "GroundObject11",
+"Position" : [840, 600],
+"Rotation" : 0
+},
+
+"Object13" : {
+"Type" : "Ground",
+"Name" : "GroundObject12",
+"Position" : [136, 600],
+"Rotation" : 0
+},
+
+"Object14" : {
+"Type" : "Ground",
+"Name" : "GroundObject13",
+"Position" : [72, 600],
+"Rotation" : 0
+},
+
+"Object15" : {
+"Type" : "Ground",
+"Name" : "GroundObject14",
+"Position" : [8, 600],
+"Rotation" : 0
+},
+
+"Object16" : {
+"Type" : "Ground",
+"Name" : "GroundObject15",
+"Position" : [890, 588],
+"Rotation" : -20
+},
+
+"Object17" : {
+"Type" : "Ground",
+"Name" : "GroundObject16",
+"Position" : [950, 566],
+"Rotation" : -20
+},
+
+"Object18" : {
+"Type" : "Ground",
+"Name" : "GroundObject17",
+"Position" : [1010, 544],
+"Rotation" : -20
+},
+
+"Object19" : {
+"Type" : "Ground",
+"Name" : "GroundObject18",
+"Position" : [1070, 522],
+"Rotation" : -20
+}
+
+}
