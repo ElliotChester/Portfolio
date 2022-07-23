@@ -1,0 +1,295 @@
+﻿  BaseEntity.cpp
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(79,24): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(81,66): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(81,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(82,69): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(82,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(102,24): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(104,66): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(104,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(105,69): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(105,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\BaseEntity.cpp(33,62): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\BaseEntity.cpp(33,29): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\BaseEntity.cpp(84,54): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\BaseEntity.cpp(84,29): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  FlightState.cpp
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(79,24): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(81,66): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(81,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(82,69): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(82,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(102,24): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(104,66): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(104,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(105,69): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(105,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\FlightState.cpp(32,14): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\FlightState.cpp(33,14): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\FlightState.cpp(35,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\FlightState.cpp(63,76): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\FlightState.cpp(63,36): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\FlightState.cpp(82,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\FlightState.cpp(82,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\FlightState.cpp(89,102): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\FlightState.cpp(89,67): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\FlightState.cpp(91,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\FlightState.cpp(91,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\FlightState.cpp(92,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\FlightState.cpp(92,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\FlightState.cpp(96,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\FlightState.cpp(96,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\FlightState.cpp(110,98): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\FlightState.cpp(110,63): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\FlightState.cpp(112,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\FlightState.cpp(112,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\FlightState.cpp(113,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\FlightState.cpp(113,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\FlightState.cpp(115,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\FlightState.cpp(115,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Grid.cpp
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(79,24): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(81,66): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(81,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(82,69): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(82,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(102,24): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(104,66): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(104,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(105,69): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(105,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(32,32): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(33,32): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(38,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(38,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(60,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(67,24): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(204,116): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(206,32): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(206,49): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(211,116): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(213,32): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(213,49): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(218,116): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(220,32): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(220,49): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(225,116): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(227,32): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(227,49): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(295,116): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(297,32): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(297,49): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(302,116): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(304,32): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(304,49): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(309,116): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(311,32): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(311,49): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(316,116): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(318,32): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(318,49): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(378,116): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(380,32): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(380,49): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(385,116): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(387,32): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(387,49): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(392,116): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(394,32): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(394,49): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(399,116): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(401,32): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(401,49): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(406,116): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(408,32): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(408,49): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(413,116): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(415,32): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(415,49): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(420,116): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(422,32): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(422,49): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(427,116): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(429,32): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.cpp(429,49): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+  Node.cpp
+  Plane AI Demo.cpp
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(79,24): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(81,66): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(81,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(82,69): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(82,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(102,24): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(104,66): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(104,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(105,69): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(105,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Plane AI Demo.cpp(122,24): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Plane AI Demo.cpp(124,25): warning C4018: '<': signed/unsigned mismatch
+  Plane.cpp
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(79,24): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(81,66): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(81,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(82,69): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(82,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(102,24): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(104,66): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(104,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(105,69): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(105,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Plane.cpp(30,77): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Plane.cpp(30,49): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Plane.cpp(39,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Plane.cpp(39,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Plane.cpp(40,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Plane.cpp(40,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Plane.cpp(46,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Plane.cpp(46,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Plane.cpp(50,54): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Plane.cpp(50,29): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  PlaneStateMachine.cpp
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(79,24): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(81,66): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(81,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(82,69): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(82,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(102,24): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(104,66): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(104,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(105,69): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(105,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  RefuelState.cpp
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(79,24): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(81,66): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(81,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(82,69): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(82,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(102,24): warning C4018: '<': signed/unsigned mismatch
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(104,66): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(104,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(105,69): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Plane AI Demo\Grid.h(105,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  UtilRandom.cpp
+  Generating Code...
+sfml-system-s-d.lib(Clock.cpp.obj) : warning LNK4099: PDB 'sfml-system-s-d.pdb' was not found with 'sfml-system-s-d.lib(Clock.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-system-s-d.pdb'; linking object as if no debug info
+sfml-system-s-d.lib(Err.cpp.obj) : warning LNK4099: PDB 'sfml-system-s-d.pdb' was not found with 'sfml-system-s-d.lib(Err.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-system-s-d.pdb'; linking object as if no debug info
+sfml-system-s-d.lib(Lock.cpp.obj) : warning LNK4099: PDB 'sfml-system-s-d.pdb' was not found with 'sfml-system-s-d.lib(Lock.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-system-s-d.pdb'; linking object as if no debug info
+sfml-system-s-d.lib(Mutex.cpp.obj) : warning LNK4099: PDB 'sfml-system-s-d.pdb' was not found with 'sfml-system-s-d.lib(Mutex.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-system-s-d.pdb'; linking object as if no debug info
+sfml-system-s-d.lib(Sleep.cpp.obj) : warning LNK4099: PDB 'sfml-system-s-d.pdb' was not found with 'sfml-system-s-d.lib(Sleep.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-system-s-d.pdb'; linking object as if no debug info
+sfml-system-s-d.lib(String.cpp.obj) : warning LNK4099: PDB 'sfml-system-s-d.pdb' was not found with 'sfml-system-s-d.lib(String.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-system-s-d.pdb'; linking object as if no debug info
+sfml-system-s-d.lib(ThreadLocal.cpp.obj) : warning LNK4099: PDB 'sfml-system-s-d.pdb' was not found with 'sfml-system-s-d.lib(ThreadLocal.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-system-s-d.pdb'; linking object as if no debug info
+sfml-system-s-d.lib(Time.cpp.obj) : warning LNK4099: PDB 'sfml-system-s-d.pdb' was not found with 'sfml-system-s-d.lib(Time.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-system-s-d.pdb'; linking object as if no debug info
+sfml-system-s-d.lib(ClockImpl.cpp.obj) : warning LNK4099: PDB 'sfml-system-s-d.pdb' was not found with 'sfml-system-s-d.lib(ClockImpl.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-system-s-d.pdb'; linking object as if no debug info
+sfml-system-s-d.lib(MutexImpl.cpp.obj) : warning LNK4099: PDB 'sfml-system-s-d.pdb' was not found with 'sfml-system-s-d.lib(MutexImpl.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-system-s-d.pdb'; linking object as if no debug info
+sfml-system-s-d.lib(SleepImpl.cpp.obj) : warning LNK4099: PDB 'sfml-system-s-d.pdb' was not found with 'sfml-system-s-d.lib(SleepImpl.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-system-s-d.pdb'; linking object as if no debug info
+sfml-system-s-d.lib(ThreadLocalImpl.cpp.obj) : warning LNK4099: PDB 'sfml-system-s-d.pdb' was not found with 'sfml-system-s-d.lib(ThreadLocalImpl.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-system-s-d.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(BlendMode.cpp.obj) : warning LNK4099: PDB 'sfml-graphics-s-d.pdb' was not found with 'sfml-graphics-s-d.lib(BlendMode.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-graphics-s-d.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(Color.cpp.obj) : warning LNK4099: PDB 'sfml-graphics-s-d.pdb' was not found with 'sfml-graphics-s-d.lib(Color.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-graphics-s-d.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(Font.cpp.obj) : warning LNK4099: PDB 'sfml-graphics-s-d.pdb' was not found with 'sfml-graphics-s-d.lib(Font.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-graphics-s-d.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(Glsl.cpp.obj) : warning LNK4099: PDB 'sfml-graphics-s-d.pdb' was not found with 'sfml-graphics-s-d.lib(Glsl.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-graphics-s-d.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(GLCheck.cpp.obj) : warning LNK4099: PDB 'sfml-graphics-s-d.pdb' was not found with 'sfml-graphics-s-d.lib(GLCheck.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-graphics-s-d.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(GLExtensions.cpp.obj) : warning LNK4099: PDB 'sfml-graphics-s-d.pdb' was not found with 'sfml-graphics-s-d.lib(GLExtensions.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-graphics-s-d.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(Image.cpp.obj) : warning LNK4099: PDB 'sfml-graphics-s-d.pdb' was not found with 'sfml-graphics-s-d.lib(Image.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-graphics-s-d.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(ImageLoader.cpp.obj) : warning LNK4099: PDB 'sfml-graphics-s-d.pdb' was not found with 'sfml-graphics-s-d.lib(ImageLoader.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-graphics-s-d.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(RenderStates.cpp.obj) : warning LNK4099: PDB 'sfml-graphics-s-d.pdb' was not found with 'sfml-graphics-s-d.lib(RenderStates.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-graphics-s-d.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(RenderTarget.cpp.obj) : warning LNK4099: PDB 'sfml-graphics-s-d.pdb' was not found with 'sfml-graphics-s-d.lib(RenderTarget.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-graphics-s-d.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(RenderWindow.cpp.obj) : warning LNK4099: PDB 'sfml-graphics-s-d.pdb' was not found with 'sfml-graphics-s-d.lib(RenderWindow.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-graphics-s-d.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(Shader.cpp.obj) : warning LNK4099: PDB 'sfml-graphics-s-d.pdb' was not found with 'sfml-graphics-s-d.lib(Shader.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-graphics-s-d.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(Texture.cpp.obj) : warning LNK4099: PDB 'sfml-graphics-s-d.pdb' was not found with 'sfml-graphics-s-d.lib(Texture.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-graphics-s-d.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(TextureSaver.cpp.obj) : warning LNK4099: PDB 'sfml-graphics-s-d.pdb' was not found with 'sfml-graphics-s-d.lib(TextureSaver.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-graphics-s-d.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(Transform.cpp.obj) : warning LNK4099: PDB 'sfml-graphics-s-d.pdb' was not found with 'sfml-graphics-s-d.lib(Transform.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-graphics-s-d.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(Transformable.cpp.obj) : warning LNK4099: PDB 'sfml-graphics-s-d.pdb' was not found with 'sfml-graphics-s-d.lib(Transformable.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-graphics-s-d.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(View.cpp.obj) : warning LNK4099: PDB 'sfml-graphics-s-d.pdb' was not found with 'sfml-graphics-s-d.lib(View.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-graphics-s-d.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(Vertex.cpp.obj) : warning LNK4099: PDB 'sfml-graphics-s-d.pdb' was not found with 'sfml-graphics-s-d.lib(Vertex.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-graphics-s-d.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(GLLoader.cpp.obj) : warning LNK4099: PDB 'sfml-graphics-s-d.pdb' was not found with 'sfml-graphics-s-d.lib(GLLoader.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-graphics-s-d.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(Sprite.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-graphics-s-d.lib(Sprite.cpp.obj)' or at ''; linking object as if no debug info
+sfml-graphics-s-d.lib(Text.cpp.obj) : warning LNK4099: PDB 'sfml-graphics-s-d.pdb' was not found with 'sfml-graphics-s-d.lib(Text.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-graphics-s-d.pdb'; linking object as if no debug info
+sfml-graphics-s-d.lib(VertexArray.cpp.obj) : warning LNK4099: PDB 'sfml-graphics-s-d.pdb' was not found with 'sfml-graphics-s-d.lib(VertexArray.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-graphics-s-d.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(Context.cpp.obj) : warning LNK4099: PDB '' was not found with 'sfml-window-s-d.lib(Context.cpp.obj)' or at ''; linking object as if no debug info
+sfml-window-s-d.lib(GlContext.cpp.obj) : warning LNK4099: PDB 'sfml-window-s-d.pdb' was not found with 'sfml-window-s-d.lib(GlContext.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-window-s-d.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(GlResource.cpp.obj) : warning LNK4099: PDB 'sfml-window-s-d.pdb' was not found with 'sfml-window-s-d.lib(GlResource.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-window-s-d.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(Joystick.cpp.obj) : warning LNK4099: PDB 'sfml-window-s-d.pdb' was not found with 'sfml-window-s-d.lib(Joystick.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-window-s-d.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(JoystickManager.cpp.obj) : warning LNK4099: PDB 'sfml-window-s-d.pdb' was not found with 'sfml-window-s-d.lib(JoystickManager.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-window-s-d.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(SensorManager.cpp.obj) : warning LNK4099: PDB 'sfml-window-s-d.pdb' was not found with 'sfml-window-s-d.lib(SensorManager.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-window-s-d.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(VideoMode.cpp.obj) : warning LNK4099: PDB 'sfml-window-s-d.pdb' was not found with 'sfml-window-s-d.lib(VideoMode.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-window-s-d.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(Window.cpp.obj) : warning LNK4099: PDB 'sfml-window-s-d.pdb' was not found with 'sfml-window-s-d.lib(Window.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-window-s-d.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(WindowImpl.cpp.obj) : warning LNK4099: PDB 'sfml-window-s-d.pdb' was not found with 'sfml-window-s-d.lib(WindowImpl.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-window-s-d.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(WglContext.cpp.obj) : warning LNK4099: PDB 'sfml-window-s-d.pdb' was not found with 'sfml-window-s-d.lib(WglContext.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-window-s-d.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(WglExtensions.cpp.obj) : warning LNK4099: PDB 'sfml-window-s-d.pdb' was not found with 'sfml-window-s-d.lib(WglExtensions.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-window-s-d.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(JoystickImpl.cpp.obj) : warning LNK4099: PDB 'sfml-window-s-d.pdb' was not found with 'sfml-window-s-d.lib(JoystickImpl.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-window-s-d.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(SensorImpl.cpp.obj) : warning LNK4099: PDB 'sfml-window-s-d.pdb' was not found with 'sfml-window-s-d.lib(SensorImpl.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-window-s-d.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(VideoModeImpl.cpp.obj) : warning LNK4099: PDB 'sfml-window-s-d.pdb' was not found with 'sfml-window-s-d.lib(VideoModeImpl.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-window-s-d.pdb'; linking object as if no debug info
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : warning LNK4099: PDB 'sfml-window-s-d.pdb' was not found with 'sfml-window-s-d.lib(WindowImplWin32.cpp.obj)' or at 'E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\sfml-window-s-d.pdb'; linking object as if no debug info
+  Plane AI Demo.vcxproj -> E:\Github\Portfolio\Pathfinding-SteeringBehaviours-FiniteStateMachine\Debug\Plane AI Demo.exe
