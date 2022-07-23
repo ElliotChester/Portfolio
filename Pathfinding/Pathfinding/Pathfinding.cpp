@@ -218,6 +218,8 @@ int main(int argc, char* args[])
 
 	std::cout << "Press Space to start searching" << std::endl << std::endl;
 
+	
+	std::cout << "Search Options: (reset before switching)" << std::endl;
 	std::cout << "Press 1 to switch Breadth First Search" << std::endl;
 	std::cout << "Press 2 to switch to Dijkstras Search" << std::endl;
 	std::cout << "Press 3 to switch to A Star Search" << std::endl << std::endl;
@@ -294,6 +296,7 @@ int main(int argc, char* args[])
 						if (finding == false)
 						{
 							pathfindingInt = 0;
+							std::cout << "Breadth First Search Selected" << std::endl;
 						}
 					break;
 					
@@ -301,6 +304,7 @@ int main(int argc, char* args[])
 						if (finding == false)
 						{
 							pathfindingInt = 1;
+							std::cout << "Dijkstras Search Selected" << std::endl;
 						}					
 					break;
 					
@@ -308,6 +312,7 @@ int main(int argc, char* args[])
 						if (finding == false)
 						{
 							pathfindingInt = 2;
+							std::cout << "A-Star Search Selected" << std::endl;
 						}					
 					break;
 				}
