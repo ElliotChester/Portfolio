@@ -62,7 +62,7 @@ void PrintState::Execute()
 	}
 	else //If the axes are not calibrated enough the printer will not print. 
 	{
-		cout << "The printer cannot print as the head is mis-aligned, try re-calibrating" << endl; //Tells the user it cannot print
+		cout << "Print failed, the print head is mis-aligned, try re-calibrating" << endl; //Tells the user it cannot print
 	}
 }
 

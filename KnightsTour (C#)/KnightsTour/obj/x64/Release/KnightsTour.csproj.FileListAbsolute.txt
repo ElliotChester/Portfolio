@@ -1,0 +1,15 @@
+D:\Github\KnightsTour\KnightsTour\bin\x64\Release\KnightsTour.exe.config
+D:\Github\KnightsTour\KnightsTour\bin\x64\Release\KnightsTour.exe
+D:\Github\KnightsTour\KnightsTour\bin\x64\Release\KnightsTour.pdb
+D:\Github\KnightsTour\KnightsTour\obj\x64\Release\KnightsTour.csproj.CoreCompileInputs.cache
+D:\Github\KnightsTour\KnightsTour\obj\x64\Release\KnightsTour.exe
+D:\Github\KnightsTour\KnightsTour\obj\x64\Release\KnightsTour.pdb
+D:\Github\KnightsTour\KnightsTour\obj\x64\Release\KnightsTour.csprojAssemblyReference.cache
+E:\Github\KnightsTour\KnightsTour\bin\x64\Release\KnightsTour.exe.config
+E:\Github\KnightsTour\KnightsTour\bin\x64\Release\KnightsTour.exe
+E:\Github\KnightsTour\KnightsTour\bin\x64\Release\KnightsTour.pdb
+E:\Github\KnightsTour\KnightsTour\obj\x64\Release\KnightsTour.csproj.AssemblyReference.cache
+E:\Github\KnightsTour\KnightsTour\obj\x64\Release\KnightsTour.csproj.SuggestedBindingRedirects.cache
+E:\Github\KnightsTour\KnightsTour\obj\x64\Release\KnightsTour.csproj.CoreCompileInputs.cache
+E:\Github\KnightsTour\KnightsTour\obj\x64\Release\KnightsTour.exe
+E:\Github\KnightsTour\KnightsTour\obj\x64\Release\KnightsTour.pdb

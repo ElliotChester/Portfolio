@@ -1,3 +1,25 @@
-﻿  main.cpp
-e:\github\portfolio\finitestatemachine\finitestatemachine\state.h(19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+﻿  stdafx.cpp
+  CalibrationState.cpp
+E:\Github\Portfolio\FiniteStateMachine\FiniteStateMachine\State.h(19,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Github\Portfolio\FiniteStateMachine\FiniteStateMachine\CalibrationState.cpp(28,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Github\Portfolio\FiniteStateMachine\FiniteStateMachine\CalibrationState.cpp(45,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Github\Portfolio\FiniteStateMachine\FiniteStateMachine\CalibrationState.cpp(48,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Github\Portfolio\FiniteStateMachine\FiniteStateMachine\CalibrationState.cpp(64,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Github\Portfolio\FiniteStateMachine\FiniteStateMachine\CalibrationState.cpp(67,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Github\Portfolio\FiniteStateMachine\FiniteStateMachine\CalibrationState.cpp(83,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  IdleState.cpp
+E:\Github\Portfolio\FiniteStateMachine\FiniteStateMachine\State.h(19,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+E:\Github\Portfolio\FiniteStateMachine\FiniteStateMachine\State.h(19,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  PreheatState.cpp
+E:\Github\Portfolio\FiniteStateMachine\FiniteStateMachine\State.h(19,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Github\Portfolio\FiniteStateMachine\FiniteStateMachine\PreheatState.cpp(22,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  PrintState.cpp
+E:\Github\Portfolio\FiniteStateMachine\FiniteStateMachine\State.h(19,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  ReloadState.cpp
+E:\Github\Portfolio\FiniteStateMachine\FiniteStateMachine\State.h(19,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Github\Portfolio\FiniteStateMachine\FiniteStateMachine\ReloadState.cpp(27,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  StateMachine.cpp
+E:\Github\Portfolio\FiniteStateMachine\FiniteStateMachine\State.h(19,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
   FiniteStateMachine.vcxproj -> E:\Github\Portfolio\FiniteStateMachine\Debug\FiniteStateMachine.exe

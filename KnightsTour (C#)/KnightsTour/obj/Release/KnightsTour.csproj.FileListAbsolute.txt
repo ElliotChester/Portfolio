@@ -1,0 +1,7 @@
+D:\Github\KnightsTour\KnightsTour\bin\Release\KnightsTour.exe.config
+D:\Github\KnightsTour\KnightsTour\bin\Release\KnightsTour.exe
+D:\Github\KnightsTour\KnightsTour\bin\Release\KnightsTour.pdb
+D:\Github\KnightsTour\KnightsTour\obj\Release\KnightsTour.csprojAssemblyReference.cache
+D:\Github\KnightsTour\KnightsTour\obj\Release\KnightsTour.csproj.CoreCompileInputs.cache
+D:\Github\KnightsTour\KnightsTour\obj\Release\KnightsTour.exe
+D:\Github\KnightsTour\KnightsTour\obj\Release\KnightsTour.pdb
